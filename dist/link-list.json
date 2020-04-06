@@ -34,5 +34,17 @@
             "title": "FCC",
             "desc": "",
             "url": "https://www.freecodecamp.org/learn/"
+        },
+        {
+            "img": "https://cdn3.iconfinder.com/data/icons/flat-icons-web/40/GitHub-512.png",
+            "title": "GitHub",
+            "desc": "",
+            "url": "https://github.com/ze-ck"
+        },
+        {
+            "img": "https://www.stickpng.com/assets/images/5ae6cd086554160a79be9f44.png",
+            "title": "Daily Schedule",
+            "desc": "",
+            "url": "https://docs.google.com/spreadsheets/d/1hheHbreftI7lYA5MMBoMZtA3TyohM7GaaY8xn9d6uTY/edit#gid=0"
         }
 ]}

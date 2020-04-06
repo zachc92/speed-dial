@@ -2,8 +2,8 @@ body {
     background: rgb(24,28,32);
 }
 
-#list-items {
-    background: rgb(42,52,61);
+.list-items {
+    background: rgb(42,52,61) !important;
 }
 
 img {

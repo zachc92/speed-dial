@@ -72,7 +72,7 @@ export const renderList = item => {
     item.forEach((el) => {
         let markup =
         `
-        <div class="row text-light mt-3 rounded align-items-center" id="list-items">
+        <div class="row text-light mt-3 rounded align-items-center list-items">
             <div class="col-1" id="icon">
                 <a href="${el.url}"><img src="${el.img}" alt="" class="mx-3 mt-3 mb-3"></a>
             </div>
