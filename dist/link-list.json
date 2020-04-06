@@ -1,0 +1,38 @@
+{   "links": [
+        {
+            "img": "https://dmszsuqyoe6y6.cloudfront.net/img/ff/favicon.png",
+            "title": "FFLogs",
+            "desc": "Elia Aximand",
+            "url": "https://www.fflogs.com/character/na/faerie/elia%20aximand"
+        },
+        {
+            "img": "https://dmszsuqyoe6y6.cloudfront.net/img/ff/favicon.png",
+            "title": "FFLogs",
+            "desc": "Paisley Park",
+            "url": "https://www.fflogs.com/character/na/faerie/paisley%20park"
+        },
+        {
+            "img": "https://www.pngkey.com/png/full/3-32240_logo-youtube-png-transparent-background-youtube-icon.png",
+            "title": "Youtube",
+            "desc": "",
+            "url": "https://www.youtube.com"
+        },
+        {
+            "img": "https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c540.png",
+            "title": "Twitch",
+            "desc": "",
+            "url": "https://www.twitch.tv/zeck___"
+        },
+        {
+            "img": "https://cdn.freebiesupply.com/logos/large/2x/udemy-1-logo-png-transparent.png",
+            "title": "Udemy",
+            "desc": "",
+            "url": "https://www.udemy.com/home/my-courses/learning/"
+        },
+        {
+            "img": "https://www.pngkey.com/png/full/303-3036579_free-code-camp-logo-transparent.png",
+            "title": "FCC",
+            "desc": "",
+            "url": "https://www.freecodecamp.org/learn/"
+        }
+]}

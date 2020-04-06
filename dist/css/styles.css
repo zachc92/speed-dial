@@ -1,0 +1,16 @@
+body {
+    background: rgb(24,28,32);
+}
+
+#list-items {
+    background: rgb(42,52,61);
+}
+
+img {
+    height: 50px !important;
+    width: 50px !important;
+}
+
+div .form-row {
+    background: rgb(42,52,61);
+}
